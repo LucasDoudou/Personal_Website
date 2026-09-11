@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder for Shikai Shen</title>
+  <desc id="desc">A neutral circular profile placeholder with the initials SS.</desc>
+  <rect width="400" height="400" fill="#eef1f4"/>
+  <circle cx="200" cy="150" r="72" fill="#c8d1dc"/>
+  <path d="M74 374c10-86 59-130 126-130s116 44 126 130" fill="#c8d1dc"/>
+  <circle cx="200" cy="200" r="194" fill="none" stroke="#d6dde5" stroke-width="8"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#667085">SS</text>
+</svg>
